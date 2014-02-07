@@ -1,0 +1,12 @@
+# Create rss feeds only with typoscript
+# Author: Christian Blechert (christian@blechert.name)
+# Original Source: http://www.thefox.ch/typo/code-schnipsel/typoscript/wie-mache-ich/ein-rss-feed-in-typo3-erstellen/
+
+# See Readme.md for more information!
+# Place this as extension template on rss site
+
+# ID of this page
+rsstemplate.pageid = 507
+
+# ID of sitemap element on this page
+rsstemplate.contentid = 815
