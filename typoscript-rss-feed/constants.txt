@@ -1,0 +1,18 @@
+# Create rss feeds only with typoscript
+# Author: Christian Blechert (christian@blechert.name)
+# Original Source: http://www.thefox.ch/typo/code-schnipsel/typoscript/wie-mache-ich/ein-rss-feed-in-typo3-erstellen/
+
+# See Readme.md for more information!
+# Place this in the rss main template
+
+rsstemplate.meta.title = Example Website
+rsstemplate.meta.description = Lorem ipsum...
+rsstemplate.meta.copyright = Any Copyright
+rsstemplate.meta.language = de
+rsstemplate.meta.image_width = 61
+rsstemplate.meta.image_height = 110
+rsstemplate.meta.image_url = fileadmin/template/image.png
+rsstemplate.meta.author = John Doe
+rsstemplate.meta.author_email = fake@example.com
+
+# EOF
