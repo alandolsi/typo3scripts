@@ -1,4 +1,3 @@
-
 Create a rss feed only with typoscript.
 
 Installation
@@ -7,6 +6,8 @@ Installation
 * Create a sysfolder
 * Create a new template on the sysfolder
 * Paste setup.txt as setup
+* Change domain names and excluded page types in code
+* Enable/Disable realurl
 * Paste constants.txt as constants and change the values as you like
 * Create inside the sysfolder a page
 * Create on the page a ext template
