@@ -3,10 +3,12 @@ Create a rss feed only with typoscript.
 Installation
 ------------
 
+* Place rss.xml template in fileadmin
 * Create a sysfolder
 * Create a new template on the sysfolder
 * Paste setup.txt as setup
 * Change domain names and excluded page types in code
+* Set correct path of rss.xml
 * Enable/Disable realurl
 * Paste constants.txt as constants and change the values as you like
 * Create inside the sysfolder a page
