@@ -15,6 +15,10 @@ Installation
 * Create a sitemap element on the page like the picture below
 * Set the pageuid und contentuid in the ext template constants
 
+Structure
+---------
+![Structure](rss-page structure.png "Structure")
+
 The sitemap element
 -------------------
 ![Sitemap element](rss-sitemapelement.png "Sitemap element")
